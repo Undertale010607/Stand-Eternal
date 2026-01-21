@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "jojomod:meteor_block",
     "jojomod:meteor_raw_block",
+    "jojomod:meteor_block",
     "jojomod:meteor_stone",
     "jojomod:meteor_ore"
   ]

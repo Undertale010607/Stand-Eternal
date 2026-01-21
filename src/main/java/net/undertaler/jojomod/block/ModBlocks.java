@@ -22,9 +22,11 @@ public class ModBlocks {
     public static final DeferredBlock<Block> METEOR_BLOCK = registerBlock("meteor_block",
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
+
     public static final DeferredBlock<Block> METEOR_RAW_BLOCK = registerBlock("meteor_raw_block",
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
+
     public static final DeferredBlock<Block> METEOR_STONE = registerBlock("meteor_stone",
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
