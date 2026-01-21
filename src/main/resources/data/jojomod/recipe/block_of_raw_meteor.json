@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "jojomod:block_of_raw_meteor"
+        }
+    ],
+    "result": {
+        "count": 9,
+        "id": "jojomod:raw_meteor"
+    }
+}
