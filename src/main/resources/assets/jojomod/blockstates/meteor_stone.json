@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "": {
+      "model": "jojomod:block/meteor_stone"
+    }
+  }
+}
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "jojomod:block/bismuth_block"
+  }
+}

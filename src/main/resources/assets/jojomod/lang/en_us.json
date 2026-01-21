@@ -1,0 +1,12 @@
+{
+  "item.jojomod.meteor_ingot": "Meteor",
+  "item.jojomod.raw_meteor": "Raw Meteor",
+
+  "block.jojomod.meteor_block": "Block of Meteor",
+  "block.jojomod.meteor_raw_block": "Block of Raw Meteor",
+  "block.jojomod.meteor_stone": "Meteor Stone",
+  "block.jojomod.meteor_ore": "Meteor Ore",
+
+  "creativetab.jojomod.jojo_items": "Jojo Items",
+  "creativetab.jojomod.jojo_blocks": "Jojo Blocks"
+}
