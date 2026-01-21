@@ -3,11 +3,11 @@
     "category": "misc",
     "ingredients": [
         {
-            "item": "jojomod:block_of_meteor"
+            "item": "jojomod:meteor_block"
         }
     ],
     "result": {
         "count": 9,
-        "id": "jojomod:meteoringot"
+        "id": "jojomod:meteor_ingot"
     }
 }
