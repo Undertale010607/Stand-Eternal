@@ -14,6 +14,9 @@ public class ModItems {
     public static final DeferredItem<Item> RAW_METEOR = ITEMS.register("raw_meteor",
             () -> new Item(new Item.Properties()));
 
+//    public static final DeferredItem<Item> COLA = ITEMS.register("",
+//            () -> new Item())
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
